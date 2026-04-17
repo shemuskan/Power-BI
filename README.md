@@ -11,4 +11,5 @@ Dashboard 1 - Patient's In Out Analysis
 
 
 Dashboard 2 - Revenue Analysis using AI
+<img width="1908" height="932" alt="Animation1" src="https://github.com/user-attachments/assets/f4efdc83-3254-4a71-93a8-600a95088d31" />
 
