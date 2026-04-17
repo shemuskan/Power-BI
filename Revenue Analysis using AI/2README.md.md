@@ -50,3 +50,11 @@ Grouped Date = {
 
 }
 
+
+
+Dashboard Preview
+
+<img width="1908" height="932" alt="Animation1" src="https://github.com/user-attachments/assets/f4efdc83-3254-4a71-93a8-600a95088d31" />
+
+
+
