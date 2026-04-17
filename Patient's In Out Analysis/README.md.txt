@@ -15,4 +15,3 @@ IP % = DIVIDE([In Patients], [Total Patients])
 Referral % = DIVIDE([Referrals], [Total Patients])
 
 
-<img width="1908" height="932" alt="Animation" src="https://github.com/user-attachments/assets/864a0740-20b1-4d7e-ab3a-825876e80f74" />
