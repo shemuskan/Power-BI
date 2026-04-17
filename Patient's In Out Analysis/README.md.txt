@@ -1,5 +1,6 @@
 *Patient's In Out Analysis*
 
+
 Business Problem- 
 Clinics often struggle to track patient trends, doctor performance, and department workload efficiently.  This dashboard solves that by providing a centralized view of patient data to improve operational decisions.
 
@@ -14,4 +15,9 @@ Avg Age = AVERAGE(Patients[Age])
 IP % = DIVIDE([In Patients], [Total Patients])
 Referral % = DIVIDE([Referrals], [Total Patients])
 
+Business Impact
+- Helps hospital management monitor patient trends  
+- Improves doctor performance tracking  
+- Identifies high-load departments for better resource allocation  
+- Supports data-driven healthcare decisions 
 
