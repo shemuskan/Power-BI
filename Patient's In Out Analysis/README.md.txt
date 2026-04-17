@@ -1,6 +1,5 @@
 *Patient's In Out Analysis*
 
-
 Business Problem- 
 Clinics often struggle to track patient trends, doctor performance, and department workload efficiently.  This dashboard solves that by providing a centralized view of patient data to improve operational decisions.
 
@@ -14,3 +13,6 @@ Sample DAX Measures-
 Avg Age = AVERAGE(Patients[Age])
 IP % = DIVIDE([In Patients], [Total Patients])
 Referral % = DIVIDE([Referrals], [Total Patients])
+
+
+<img width="1908" height="932" alt="Animation" src="https://github.com/user-attachments/assets/864a0740-20b1-4d7e-ab3a-825876e80f74" />
