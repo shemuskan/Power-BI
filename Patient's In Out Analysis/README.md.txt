@@ -10,6 +10,9 @@ Key Insights-
 - Peak patient visits observed around mid-month  
 - Some doctors have high referral % indicating specialization or overload  
 
+GIF-
+Patient's In Out Analysis/Animation.gif
+
 Sample DAX Measures-
 Avg Age = AVERAGE(Patients[Age])
 IP % = DIVIDE([In Patients], [Total Patients])
@@ -20,4 +23,3 @@ Business Impact
 - Improves doctor performance tracking  
 - Identifies high-load departments for better resource allocation  
 - Supports data-driven healthcare decisions 
-
